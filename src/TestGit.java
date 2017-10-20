@@ -12,5 +12,6 @@ public class TestGit {
         System.out.println("client shu chu 111 服务器加个 4");
 
         System.out.println("主干加个5 其实分支才6");
+        System.out.println("主干加个5 这是分支哦 主干666");
     }
 }
