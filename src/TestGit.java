@@ -6,5 +6,6 @@
 public class TestGit {
     public static void main(String[] args) {
         System.out.println("client shu chu 111 客户端加个1");
+        System.out.println("client shu chu 111 服务器加个 2");
     }
 }
