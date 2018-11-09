@@ -14,6 +14,6 @@ public class TestGit {
         System.out.println("主干加个5 其实分支才6");
         System.out.println("主干加个5 这是分支哦 主干666");
         
-        System.out.println("上面被人改了东西");
+        System.out.println("上面被人改了东西1");
     }
 }
