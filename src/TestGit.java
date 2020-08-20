@@ -5,15 +5,6 @@
  */
 public class TestGit {
     public static void main(String[] args) {
-        System.out.println("client shu chu 111 客户端加个1");
-        System.out.println("client shu chu 111 服务器加个 2");
-
-        System.out.println("client shu chu 111 服务器加个 3");
-        System.out.println("client shu chu 111 服务器加个 4");
-
-        System.out.println("主干加个5 其实分支才6");
-        System.out.println("主干加个5 这是分支哦 主干666");
-        
-        System.out.println("上面被人改了东西2");
+        System.out.println("主干表示就绪");
     }
 }
